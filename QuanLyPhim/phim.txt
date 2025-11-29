@@ -1,0 +1,2 @@
+P001,Doremon,Hoạt hình,90,50000.00
+P002,Matrix,Hành động,120,80000.00
